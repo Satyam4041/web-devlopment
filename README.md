@@ -1,2 +1,2 @@
-# web-devlopment
-Content related to web devlopment
+Dentytech Website
+Content related to Dentist and doctor
